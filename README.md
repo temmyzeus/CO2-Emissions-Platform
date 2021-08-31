@@ -16,4 +16,4 @@ CO2 Emission Platform
 
    For Conda Environment
 
-   1. Will be added soon .....
+   1. conda env create --file environment.yml
