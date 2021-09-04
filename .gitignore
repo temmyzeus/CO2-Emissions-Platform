@@ -1,1 +1,6 @@
 /co2-em
+.venv/
+venv/
+.env/
+env/
+__pycache__/
